@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-redux-football-manager-app/static/css/main.cdcfab4f.chunk.css",
+    "main.js": "/react-redux-football-manager-app/static/js/main.0f1768da.chunk.js",
+    "main.js.map": "/react-redux-football-manager-app/static/js/main.0f1768da.chunk.js.map",
+    "runtime-main.js": "/react-redux-football-manager-app/static/js/runtime-main.9372d817.js",
+    "runtime-main.js.map": "/react-redux-football-manager-app/static/js/runtime-main.9372d817.js.map",
+    "static/js/2.b8613593.chunk.js": "/react-redux-football-manager-app/static/js/2.b8613593.chunk.js",
+    "static/js/2.b8613593.chunk.js.map": "/react-redux-football-manager-app/static/js/2.b8613593.chunk.js.map",
+    "index.html": "/react-redux-football-manager-app/index.html",
+    "precache-manifest.b7e2fbae2ae7e0d54d4822fd8e8c482e.js": "/react-redux-football-manager-app/precache-manifest.b7e2fbae2ae7e0d54d4822fd8e8c482e.js",
+    "service-worker.js": "/react-redux-football-manager-app/service-worker.js",
+    "static/css/main.cdcfab4f.chunk.css.map": "/react-redux-football-manager-app/static/css/main.cdcfab4f.chunk.css.map",
+    "static/js/2.b8613593.chunk.js.LICENSE.txt": "/react-redux-football-manager-app/static/js/2.b8613593.chunk.js.LICENSE.txt",
+    "static/media/cancha.svg": "/react-redux-football-manager-app/static/media/cancha.aa6d54bf.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9372d817.js",
+    "static/js/2.b8613593.chunk.js",
+    "static/css/main.cdcfab4f.chunk.css",
+    "static/js/main.0f1768da.chunk.js"
+  ]
+}
